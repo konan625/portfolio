@@ -18,7 +18,7 @@ const uniforms = {
   uPointerVelocity: { value: 0.0 }
 };
 
-const material = new THREE.ShaderMaterial({
+const material = new  THREE.ShaderMaterial({
   uniforms,
   transparent: true,
   vertexShader: `

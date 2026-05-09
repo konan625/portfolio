@@ -186,7 +186,7 @@ a {
   font-size: clamp(1.5rem, 3vw, 2.2rem);
 }
 
-.section-head p {
+.section-head p  {
   margin: 0 0 1.35rem;
   color: var(--muted);
 }
